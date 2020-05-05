@@ -1,0 +1,59 @@
+<resources>
+    <string name="app_name">ResistorColors</string>
+    <string-array name="BaseColorsFirst">
+        <item>BROWN</item>
+        <item>RED</item>
+        <item>ORANGE</item>
+        <item>YELLOW</item>
+        <item>GREEN</item>
+        <item>BLUE</item>
+        <item>PURPLE</item>
+        <item>GREY</item>
+        <item>WHITE</item>
+    </string-array>
+    <string-array name="BaseColors">
+        <item>BLACK</item>
+        <item>BROWN</item>
+        <item>RED</item>
+        <item>ORANGE</item>
+        <item>YELLOW</item>
+        <item>GREEN</item>
+        <item>BLUE</item>
+        <item>PURPLE</item>
+        <item>GREY</item>
+        <item>WHITE</item>
+    </string-array>
+    <string-array name="MultiplicativeColor">
+        <item>SILVER</item>
+        <item>GOLD</item>
+        <item>BLACK</item>
+        <item>BROWN</item>
+        <item>RED</item>
+        <item>ORANGE</item>
+        <item>YELLOW</item>
+        <item>GREEN</item>
+        <item>BLUE</item>
+        <item>PURPLE</item>
+        <item>GREY</item>
+        <item>WHITE</item>
+    </string-array>
+    <string-array name="TemperatureColor">
+        <item>BROWN</item>
+        <item>RED</item>
+        <item>ORANGE</item>
+        <item>YELLOW</item>
+        <item>BLUE</item>
+        <item>PURPLE</item>
+        <item>WHITE</item>
+    </string-array>
+    <string-array name="ToleranceColor">
+        <item>SILVER</item>
+        <item>GOLD</item>
+        <item>BROWN</item>
+        <item>RED</item>
+        <item>GREEN</item>
+        <item>BLUE</item>
+        <item>PURPLE</item>
+        <item>GREY</item>
+    </string-array>
+</resources>
